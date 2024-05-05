@@ -20,5 +20,3 @@
 ```
 
 ## REPOSITORIES
-
-* [[OFFICIAL DISCORD BOT] OSDEV KR BOT](https://github.com/KR-OSDEV/officialBOT)
